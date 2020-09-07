@@ -2,6 +2,8 @@
 
 Practice using Git &amp; Github
 
+excited for the class!
+
 * Fork a version of this repository to your Github account
 * Clone this repository to your computer (Open it as a project in RStudio)
 * Make and save a change to the Readme file
